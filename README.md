@@ -28,8 +28,5 @@ MAE: 6.32
 MSE: 64.89
 RMSE: 8.06
 R² Score: 0.88
-MSE: 64.89
-RMSE: 8.06
-² Score: 0.88 ✅
 
-👉 The model explains 88% of the variance, showing strong predictive performance.
+The model explains 88% of the variance, showing strong predictive performance.
